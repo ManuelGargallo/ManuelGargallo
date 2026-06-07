@@ -1,10 +1,10 @@
 ![TITLE LOGO](assets/TITLE_MANUELGARGALLO_0.PNG)
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/manuelpgargallo/"><img src="assets/LOGO_LINKEDIN_D.PNG" alt="LINKEDIN" width="90" align="center"></a>
-    <a href="https://leetcode.com/u/ManuPG/"><img src="assets/LOGO_LEETCODE_D.PNG" alt="LEETCODE" width="90" align="center"></a>
-    <a href="https://stackoverflow.com/users/8963981/manuel"><img src="assets/LOGO_STACK_OVERFLOW_D.PNG" alt="STACK_OVERFLOW" width="90" align="center"></a>
-    <a href="mailto:manuelperezgargallo@gmail.com"><img src="assets/LOGO_EMAIL_D.PNG" alt="EMAIL" width="90" align="center"></a>
+    <a href="https://www.linkedin.com/in/manuelpgargallo/"><img src="assets/LOGO_LINKEDIN_L.PNG" alt="LINKEDIN" width="90" align="center"></a>
+    <a href="https://leetcode.com/u/ManuPG/"><img src="assets/LOGO_LEETCODE_L.PNG" alt="LEETCODE" width="90" align="center"></a>
+    <a href="https://stackoverflow.com/users/8963981/manuel"><img src="assets/LOGO_STACK_OVERFLOW_L.PNG" alt="STACK_OVERFLOW" width="90" align="center"></a>
+    <a href="mailto:manuelperezgargallo@gmail.com"><img src="assets/LOGO_EMAIL_L.PNG" alt="EMAIL" width="90" align="center"></a>
 </p>
 
 ---
