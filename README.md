@@ -1,4 +1,4 @@
-![TITLE LOGO](assets/TITLE_MANUELGARGALLO_0.PNG)
+![TITLE LOGO](assets/TITLE_MANUELGARGALLO.PNG)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/manuelpgargallo/"><img src="assets/LOGO_LINKEDIN_L.PNG" alt="LINKEDIN" width="90" align="center"></a>
