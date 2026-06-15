@@ -32,7 +32,7 @@ Currently, I spend my time engineering feature-rich tools for infrastructure and
 
 ---
 
-## PROJECTS
+## COLABORATIONS
 
 ### [omarchy-on-cachyos](https://github.com/ManuelGargallo/omarchy-on-cachyos)
 *One of my latest projects: An automated compatibility and installation script to deploy DHH's opinionated Omarchy desktop environment directly on top of a performance-optimized CachyOS system.*
