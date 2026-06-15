@@ -11,28 +11,28 @@
 
 # H E L L O &nbsp;&nbsp; W O R L D ! 
 
-I'm Manuel. I'm a Software Engineer and Production Engineer who loves automation, building efficient internal tools, and optimizing large-scale infrastructure. My work bridges the gap between clean code and rock-solid system reliability.
+I'm Manuel, a **Systems & Infrastructure Software Engineer** with over 4.5 years of experience at **Meta** and a Master’s in Aerospace Engineering. I specialize in high-performance C++ and Python, focusing on automated configuration frameworks, resource allocation, and distributed system reliability.
 
-Currently, I spend my time engineering feature-rich tools for infrastructure and power management at scale, but here on GitHub, you'll find my open-source projects, automation scripts, and technical experiments.
+Currently relocating to Zurich, I bridge the gap between hardware-software interfaces and global-scale infrastructure, with a proven track record in leading 24/7 incident response and optimizing mission-critical systems.
 
 ---
 
-## WHAT I DO
+## CORE EXPERTISE
 
-- **Systems & Infrastructure:** Specializing in large-scale server power management, system-wide configuration changes, and incident reliability.
-- **Automation & Devops:** Streamlining CI/CD pipelines, reducing deployment errors, and writing robust scripts to eliminate manual overhead.
-- **Data & Scripting:** Processing complex data and building internal utilities, a foundation built during my background in Aerospace Engineering.
+- **Systems & Infrastructure:** Distributed systems, SLIs/SLOs (Metrics-Driven Reliability), Linux internals, and fleet-wide configuration-as-code.
+- **Automation & DevOps:** Optimizing CI/CD pipelines, building automated data systems, and streamlining manual overhead through robust tooling.
+- **Operations:** Expert in 24/7 incident management and deep-dive root-cause analysis (post-mortems) for global-scale infrastructure.
 
 ---
 
 ## TECH STACK
 
-- **Languages:** Python | C++
-- **Focus Areas:** Scripting & Automation | CI/CD Pipelines | Infrastructure at Scale | Incident Management
+- **Programming:** Python (Automated Workflows, Tooling, Pandas, NumPy) | C++ (Performance & Systems)
+- **Focus Areas:** System State Management | Resource Allocation | Distributed System Reliability | Infrastructure at Scale
 
 ---
 
-## COLABORATIONS
+## COLLABORATIONS
 
 ### [omarchy-on-cachyos](https://github.com/ManuelGargallo/omarchy-on-cachyos)
 *One of my latest projects: An automated compatibility and installation script to deploy DHH's opinionated Omarchy desktop environment directly on top of a performance-optimized CachyOS system.*
